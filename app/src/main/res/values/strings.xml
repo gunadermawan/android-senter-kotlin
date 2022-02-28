@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">torchKotlin</string>
+    <string name="image_of_torch">image of torch</string>
+</resources>
